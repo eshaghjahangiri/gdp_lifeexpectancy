@@ -1,3 +1,6 @@
-# gdp_lifeexpectancy
+# Life Expectancy and GDP Analysis
 
-This is a data science project about GDP and life expectancy from WHO
+Portfolio Project
+
+This project explores the relationship between life expectancy and GDP across different countries using data from the World Health Organization (WHO). The analysis is conducted using Python in a Jupyter Notebook.
+
